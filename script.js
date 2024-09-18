@@ -1,9 +1,9 @@
 //your JS code here. If required.
-const Student={
+const student={
 	name:"okau";
 	age:20;
-getkeys(){
-	console.log('${name},${age}')
+getKeys(){
+	return '${name},${age}'
 
 }
 }
