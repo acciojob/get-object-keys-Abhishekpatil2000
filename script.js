@@ -3,7 +3,5 @@ const student={
 	name:"okau";
 	age:20;
 getKeys(){
-	return '${name},${age}'
-
-}
+	return '${name},${age}'}
 }
