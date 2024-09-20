@@ -2,5 +2,5 @@
 const student={
 	name:"okau";
 getKeys(){
-	return '${name},${age}'}
+	return '${name}'}
 }
